@@ -19,7 +19,7 @@ You could compare this plain text code with the upper code.
 def pythonFunction():
     print("I love Mimi.")
 
-This is for website [Google](www.google.com)
+This is for website [Google](https://www.google.com)
 
 *Italic*
 **Bold**
